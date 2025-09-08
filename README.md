@@ -1,3 +1,5 @@
+**patched**
+
 1. Uses only HTTP requests
 2. Uses a third-party **2captcha/rucaptcha** service to bypass the captcha
 
