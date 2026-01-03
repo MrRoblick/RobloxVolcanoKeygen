@@ -1,3 +1,4 @@
+# discontinued
 **patched**
 
 1. Uses only HTTP requests
